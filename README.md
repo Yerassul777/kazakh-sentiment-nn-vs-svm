@@ -5,7 +5,8 @@ Kazakh review classification: SVM and Neural Network compared on the same 30k-fe
 Классификация казахских отзывов. Обе модели получают одну и ту же матрицу признаков, одно и то же разбиение, одну и ту же балансировку классов. Отличается только способ разделения классов: у SVM гиперплоскость, у сети изогнутая граница.
 
 **Датасет:** [KazSAnDRA](https://github.com/IS2AI/KazSAnDRA) (ISSAI, Назарбаев Университет, CC BY 4.0) · 175 158 отзывов · 30 000 признаков
-**Ноутбук:** [открыть в Google Colab](https://colab.research.google.com/drive/1dVVak_yOdTjFR9pKDdkr5_54XoF5tm-J) · CPU, GPU не требуется
+
+**Ноутбук:** [открыть в Google Colab](https://colab.research.google.com/drive/1dVVak_yOdTjFR9pKDdkr5_54XoF5tm-J)
 
 | | macro-F1 | accuracy | ROC-AUC | параметров | время обучения |
 |---|---|---|---|---|---|
