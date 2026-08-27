@@ -10,8 +10,9 @@ Kazakh review classification: SVM and Neural Network compared on the same 30k-fe
 
 | | macro-F1 | accuracy | ROC-AUC | параметров | время обучения |
 |---|---|---|---|---|---|
-| soft-margin SVM | 0.7579 | 0.8177 | 0.8704 | 30 000 | 11 с |
-| neural network | **0.7652** | 0.8258 | 0.8789 | 3 844 289 | ~3 мин |
+| soft-margin SVM | 0.7594 | 0.8183 | 0.8708 | 30 000 | ~10 с |
+| neural network | **0.7672** | 0.8286 | 0.8754 | 1 920 129 | ~4 мин |
+
 
 ---
 
