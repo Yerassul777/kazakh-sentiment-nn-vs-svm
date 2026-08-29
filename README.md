@@ -48,7 +48,7 @@ macro-F1  = ( F1(negative) + F1(positive) ) / 2
 | Карты | 8 897 | 407 мест |
 | Книжный | 5 805 | 1 026 книг |
 
-![Rating distribution](ratings_distribution.png)
+![Rating distribution](RATING~1.PNG)
 
 Собрано авторами 180 064, после очистки и дедупликации осталось 175 158. Разбиение train / validation / test — 140 126 / 17 516 / 17 516.
 
