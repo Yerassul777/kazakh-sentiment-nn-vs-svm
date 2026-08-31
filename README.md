@@ -1,4 +1,4 @@
-![Soft-margin SVM против нейросети на одинаковых признаках](banner.png)
+![Soft-margin SVM против нейросети на одинаковых признаках](banner_v3.png)
 # Soft-margin SVM против нейросети на одинаковых признаках
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
